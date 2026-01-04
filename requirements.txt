@@ -1,0 +1,9 @@
+%%writefile requirements.txt
+flask
+pandas
+numpy
+statsmodels
+scikit-learn
+scipy
+matplotlib
+seaborn
