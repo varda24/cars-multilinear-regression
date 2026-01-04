@@ -7,14 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1sYl-L9McsxWaNqxtEsI7fv3tABXrHcJQ
 """
 
-# Commented out IPython magic to ensure Python compatibility.
-# %%writefile requirements.txt
-# flask
-# pandas
-# numpy
-# statsmodels
-# scikit-learn
-# scipy
-# matplotlib
-# seaborn
-#
+flask
+pandas
+numpy
+statsmodels
+scikit-learn
+scipy
+matplotlib
+seaborn
+gunicorn
